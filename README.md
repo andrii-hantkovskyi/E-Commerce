@@ -23,4 +23,4 @@ P.S. I'm not good designer. so design may be bad for you.
 
 ---
 
-I'll be glad to answer your questions.
+I'll be glad to answer your questions
