@@ -1,7 +1,12 @@
-/frontend/
-/media/
-/static/
-/venv2/
+/.idea/
+
 /accounts/migrations/
 /api/migrations/
 /main/migrations/
+/media/
+/static/
+/venv2/
+
+/frontend/.idea/
+/frontend/build/
+/frontend/node_modules/
