@@ -19,7 +19,7 @@ I made this app using Django, React, Redux & PostgreSQL
 9. Run server with `manage.py runserver`
 10. Enjoy :)
 
-P.S. I'm not good designer. so design may be bad for you.
+P.S. I'm not good designer. so design may be bad for you
 
 ---
 
