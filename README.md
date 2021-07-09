@@ -9,15 +9,15 @@ I made this app using Django, React, Redux & PostgreSQL
 **Instruction to run dev server**
 
 1. First, go to `settings.py` and change `DATABASES` setting to set your db
-2. Run `pip install -r requirements.txt` to install dependencies
-3. `cd frontend` and there run `npm i package.json`
-4. Run `npm run build`
-5. Go back, `cd ..`
-6. Collect static with command `manage.py collectstatic`
-7. Make migrations `manage.py makemigrations`
-8. Migrate to db `manage.py migrate`
-9. Run server with `manage.py runserver`
-10. Enjoy :)
+2. Also change `EMAIL_HOST_USER` for confirm messages
+3. Run `pip install -r requirements.txt` to install dependencies
+4. `cd frontend` and there run `npm i package.json`
+5. Run `npm run build`
+6. Go back, `cd ..`
+7. Collect static with command `manage.py collectstatic`
+8. Make migrations `manage.py makemigrations`
+9. Migrate to db `manage.py migrate`
+10. Run server with `manage.py runserver`
 
 P.S. I'm not good designer. so design may be bad for you
 
