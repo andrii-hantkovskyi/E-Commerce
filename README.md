@@ -9,7 +9,7 @@ I made this app using Django, React, Redux & PostgreSQL
 **Instruction to run dev server**
 
 1. First, go to `settings.py` and change `DATABASES` setting to set your db
-2. Also change `EMAIL_HOST_USER` for confirm messages
+2. Also change `EMAIL_HOST_USER` for email messages
 3. Run `pip install -r requirements.txt` to install dependencies
 4. `cd frontend` and there run `npm i package.json`
 5. Run `npm run build`
