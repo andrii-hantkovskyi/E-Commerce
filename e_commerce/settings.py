@@ -87,6 +87,7 @@ WSGI_APPLICATION = 'e_commerce.wsgi.application'
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
 DATABASES = {
+    # don't forget to change databases
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'e-commerce',
@@ -100,8 +101,8 @@ DATABASES = {
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'dfrhgte@gmail.com'
-EMAIL_HOST_PASSWORD = 'qweqwe123!'
+EMAIL_HOST_USER = '<Your email for messages>'
+EMAIL_HOST_PASSWORD = '<password>'
 EMAIL_USE_TLS = True
 
 # Password validation
