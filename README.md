@@ -11,7 +11,7 @@ I made this app using Django, React, Redux & PostgreSQL
 1. First, go to `settings.py` and change `DATABASES` setting to set your db
 2. Also change `EMAIL_HOST_USER` for email messages
 3. Run `pip install -r requirements.txt` to install dependencies
-4. `cd frontend` and there run `npm i package.json`
+4. `cd frontend` and there run `npm i --save`
 5. Run `npm run build`
 6. Go back, `cd ..`
 7. Collect static with command `manage.py collectstatic`
