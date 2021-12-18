@@ -3,7 +3,7 @@ E-Commerce project
 
 This is my first GitHub project and this is e-shop basic functional web application
 
-I made this app using Django, React, Redux & PostgreSQL
+I made this app using Django, React & PostgreSQL
 
 ---
 **Instruction to run dev server**
